@@ -1,7 +1,5 @@
 # Rocket-Boost
 
-# Rocket-Boost
-
 A Unity game / project prototype by Me
 
 ---
