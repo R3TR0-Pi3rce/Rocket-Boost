@@ -26,8 +26,16 @@ Here are some of the main folders and files in this repo:
 
 ---
 
-## ⚙️ Setup & Running Locally
+## Setup & Running Locally
 
 Here’s how to get the project working in your local environment:  
 1. Clone this repo:
    git clone https://github.com/R3TR0-Pi3rce/Rocket-Boost.git
+
+---
+
+## How to Play
+
+Move Upwards: Hold Spacebar
+Move Right: Right Arrow
+Move Left: Left Arrow
